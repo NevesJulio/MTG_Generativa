@@ -8,10 +8,10 @@ Exemplo de cartas oficiais
 </p>
 
 
-##Links úteis 
+## Links úteis
 
-Banco de dados oficial Wizard of the cost
-https://gatherer.wizards.com/sets/SOC
+### Banco de dados oficial da Wizards of the Coast
+- https://gatherer.wizards.com/sets/SOC
 
-
-Banco de dados kaggle
+### Banco de dados Kaggle
+- https://www.kaggle.com/
